@@ -21,7 +21,7 @@
       "description": ""
     },
     "secondary": {
-      "value": "#084f7a",
+      "value": "#084062",
       "type": "color",
       "description": ""
     },
@@ -36,7 +36,7 @@
       "description": ""
     },
     "on-secondary-container": {
-      "value": "#ffffff",
+      "value": "#082134",
       "type": "color",
       "description": ""
     },
