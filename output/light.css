@@ -41,4 +41,20 @@
   --theme-success-container: #f4fcfa;
   --theme-on-success-container: #072820;
   --theme-success-container-variant: #e5f8f3;
+  --text-field-default-focus: [object Object],[object Object],[object Object];
+  --text-field-default-hover: [object Object],[object Object];
+  --text-field-default-active: [object Object],[object Object];
+  --text-field-default-default: [object Object];
+  --text-field-error-active: [object Object],[object Object];
+  --text-field-error-hover: [object Object],[object Object];
+  --text-field-error-focus: [object Object],[object Object],[object Object];
+  --text-field-error-default: [object Object];
+  --text-field-warning-active: [object Object],[object Object];
+  --text-field-warning-hover: [object Object],[object Object];
+  --text-field-warning-focus: [object Object],[object Object],[object Object];
+  --text-field-warning-default: [object Object];
+  --text-field-success-default: [object Object];
+  --text-field-success-hover: [object Object],[object Object];
+  --text-field-success-focus: [object Object],[object Object],[object Object];
+  --text-field-success-active: [object Object],[object Object];
       }
