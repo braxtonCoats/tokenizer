@@ -31,7 +31,7 @@
       "description": ""
     },
     "secondary-container": {
-      "value": "#e6f5fd",
+      "value": "#51b9f3",
       "type": "color",
       "description": ""
     },
@@ -172,6 +172,26 @@
     },
     "on-warning-container": {
       "value": "#392b0a",
+      "type": "color"
+    },
+    "success": {
+      "value": "#028663",
+      "type": "color"
+    },
+    "on-success": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "success-container": {
+      "value": "#f4fcfa",
+      "type": "color"
+    },
+    "on-success-container": {
+      "value": "#072820",
+      "type": "color"
+    },
+    "success-container-variant": {
+      "value": "#e5f8f3",
       "type": "color"
     }
   }
