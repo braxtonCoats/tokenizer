@@ -6,6 +6,7 @@
   --theme-secondary: #084062;
   --theme-on-secondary: #ffffff;
   --theme-secondary-container: #e6f5fd;
+  --theme-primary-container-variant: #e6f5fd;
   --theme-on-secondary-container: #082134;
   --theme-tertiary: #33cba3;
   --theme-on-tertiary: #000000;
@@ -13,8 +14,8 @@
   --theme-on-tertiary-container: #ccf2e8;
   --theme-error: #c43837;
   --theme-on-error: #ffffff;
-  --theme-error-container: #fbebeb;
-  --theme-error-container-variant: #fdf7f7;
+  --theme-error-container: #fdf7f7;
+  --theme-error-container-variant: #fbebeb;
   --theme-on-error-container: #320e11;
   --theme-background: #f9f9f9;
   --theme-on-background: #6b6769;
@@ -30,4 +31,9 @@
   --theme-surface4: #deeeff;
   --theme-surface5: #d9e7f1;
   --theme-outline-variant: #908d8e;
+  --theme-warning: #b19014;
+  --theme-on-warning: #ffffff;
+  --theme-warning-container: #fefcf1;
+  --theme-warning-container-variant: #fefae8;
+  --theme-on-warning-container: #392b0a;
       }

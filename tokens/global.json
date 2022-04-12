@@ -417,6 +417,10 @@
         }
       },
       "maroon": {
+        "maroon0": {
+          "value": "#ffffff",
+          "type": "color"
+        },
         "maroon5": {
           "value": "#efe9ed",
           "type": "color"
@@ -596,6 +600,10 @@
         }
       },
       "orange": {
+        "orange0": {
+          "value": "#ffffff",
+          "type": "color"
+        },
         "orange2": {
           "value": "#fff9f7",
           "type": "color"
@@ -678,6 +686,10 @@
         }
       },
       "yellow": {
+        "yellow0": {
+          "value": "#ffffff",
+          "type": "color"
+        },
         "yellow2": {
           "value": "#fefcf1",
           "type": "color"
@@ -760,6 +772,10 @@
         }
       },
       "pink": {
+        "pink0": {
+          "value": "#ffffff",
+          "type": "color"
+        },
         "pink2": {
           "value": "#fdf7fb",
           "type": "color"
@@ -1272,6 +1288,10 @@
     },
     "20": {
       "value": 20,
+      "type": "Line Height"
+    },
+    "21": {
+      "value": 21,
       "type": "Line Height"
     },
     "24": {

@@ -35,6 +35,11 @@
       "type": "color",
       "description": ""
     },
+    "primary-container-variant": {
+      "value": "#e6f5fd",
+      "type": "color",
+      "description": ""
+    },
     "on-secondary-container": {
       "value": "#082134",
       "type": "color",
@@ -71,12 +76,12 @@
       "description": ""
     },
     "error-container": {
-      "value": "#fbebeb",
+      "value": "#fdf7f7",
       "type": "color",
       "description": ""
     },
     "error-container-variant": {
-      "value": "#fdf7f7",
+      "value": "#fbebeb",
       "type": "color",
       "description": ""
     },
@@ -147,6 +152,26 @@
     },
     "outline-variant": {
       "value": "#908d8e",
+      "type": "color"
+    },
+    "warning": {
+      "value": "#b19014",
+      "type": "color"
+    },
+    "on-warning": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "warning-container": {
+      "value": "#fefcf1",
+      "type": "color"
+    },
+    "warning-container-variant": {
+      "value": "#fefae8",
+      "type": "color"
+    },
+    "on-warning-container": {
+      "value": "#392b0a",
       "type": "color"
     }
   }
