@@ -343,7 +343,7 @@
             "spread": 0
           },
           {
-            "color": "#fbebeb",
+            "color": "#320E11",
             "type": "innerShadow",
             "x": 0,
             "y": 0,
@@ -419,7 +419,7 @@
             "spread": -2
           },
           {
-            "color": "#fefae8",
+            "color": "#211708",
             "type": "innerShadow",
             "x": 0,
             "y": 0,
@@ -493,7 +493,7 @@
             "spread": -2
           },
           {
-            "color": "#e5f8f3",
+            "color": "#072820",
             "type": "innerShadow",
             "x": 0,
             "y": 0,
