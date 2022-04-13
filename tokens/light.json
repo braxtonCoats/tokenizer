@@ -271,9 +271,9 @@
       "default": {
         "value": {
           "color": "#777476",
-          "type": "dropShadow",
+          "type": "innerShadow",
           "x": 0,
-          "y": 1,
+          "y": -1,
           "blur": 0,
           "spread": 0
         },
@@ -355,9 +355,9 @@
       "default": {
         "value": {
           "color": "#777476",
-          "type": "dropShadow",
+          "type": "innerShadow",
           "x": 0,
-          "y": 1,
+          "y": -1,
           "blur": 0,
           "spread": 0
         },
@@ -439,9 +439,9 @@
       "default": {
         "value": {
           "color": "#777476",
-          "type": "dropShadow",
+          "type": "innerShadow",
           "x": 0,
-          "y": 1,
+          "y": -1,
           "blur": 0,
           "spread": 0
         },
@@ -452,9 +452,9 @@
       "default": {
         "value": {
           "color": "#777476",
-          "type": "dropShadow",
+          "type": "innerShadow",
           "x": 0,
-          "y": 1,
+          "y": -1,
           "blur": 0,
           "spread": 0
         },
