@@ -10,7 +10,7 @@
   --theme-on-secondary-container: #f5fbfe;
   --theme-tertiary: #d93e3d;
   --theme-on-tertiary: #d93e3d;
-  --theme-tertiary-container: #d93e3d;
+  --theme-tertiary-container: #efb1b1;
   --theme-on-tertiary-container: #d93e3d;
   --theme-error: #e06463;
   --theme-error-container: #471416;
@@ -33,12 +33,12 @@
   --theme-outline-variant: #dad9d9;
   --theme-outline: #777476;
   --theme-warning: #fbd747;
-  --theme-on-warning: #ffffff;
+  --theme-on-warning: #211b1e;
   --theme-warning-container: #392b0a;
   --theme-warning-container-variant: #513f0c;
   --theme-on-warning-container: #392b0a;
   --theme-success: #00bf8c;
-  --theme-on-success: #ffffff;
+  --theme-on-success: #211b1e;
   --theme-success-container: #063b2e;
   --theme-success-container-variant: #054e3b;
   --theme-on-success-container: #072820;

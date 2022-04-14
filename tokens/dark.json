@@ -55,7 +55,7 @@
       "description": ""
     },
     "tertiary-container": {
-      "value": "#d93e3d",
+      "value": "#efb1b1",
       "type": "color",
       "description": ""
     },
@@ -160,7 +160,7 @@
       "type": "color"
     },
     "on-warning": {
-      "value": "#ffffff",
+      "value": "#211b1e",
       "type": "color"
     },
     "warning-container": {
@@ -180,7 +180,7 @@
       "type": "color"
     },
     "on-success": {
-      "value": "#ffffff",
+      "value": "#211b1e",
       "type": "color"
     },
     "success-container": {
