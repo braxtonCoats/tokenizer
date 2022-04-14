@@ -922,6 +922,10 @@
     }
   },
   "spacing": {
+    "none": {
+      "value": 0,
+      "type": "spacing"
+    },
     "xx-sm": {
       "value": 4,
       "type": "spacing"
@@ -1342,7 +1346,7 @@
     }
   },
   "paragraphSpacing": {
-    "0": {
+    "none": {
       "value": 0,
       "type": "paragraphSpacing"
     },
