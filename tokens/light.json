@@ -15,6 +15,11 @@
       "type": "color",
       "description": ""
     },
+    "primary-container-variant": {
+      "value": "#e6f5fd",
+      "type": "color",
+      "description": ""
+    },
     "on-primary-container": {
       "value": "#076ea8",
       "type": "color",
@@ -32,11 +37,6 @@
     },
     "secondary-container": {
       "value": "#51b9f3",
-      "type": "color",
-      "description": ""
-    },
-    "primary-container-variant": {
-      "value": "#e6f5fd",
       "type": "color",
       "description": ""
     },
@@ -125,6 +125,10 @@
       "type": "color",
       "description": ""
     },
+    "outline-variant": {
+      "value": "#908d8e",
+      "type": "color"
+    },
     "shadow": {
       "value": "#000000",
       "type": "color",
@@ -148,10 +152,6 @@
     },
     "surface5": {
       "value": "#d9e7f1",
-      "type": "color"
-    },
-    "outline-variant": {
-      "value": "#908d8e",
       "type": "color"
     },
     "warning": {
@@ -192,6 +192,14 @@
     },
     "success-container-variant": {
       "value": "#e5f8f3",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "#f2f2f2",
+      "type": "color"
+    },
+    "on-disabled": {
+      "value": "#6b6769",
       "type": "color"
     }
   },

@@ -69,6 +69,11 @@
       "type": "color",
       "description": ""
     },
+    "on-error": {
+      "value": "#211b1e",
+      "type": "color",
+      "description": ""
+    },
     "error-container": {
       "value": "#471416",
       "type": "color",
@@ -77,11 +82,6 @@
     "error-container-variant": {
       "value": "#5c1a1c",
       "type": "color"
-    },
-    "on-error": {
-      "value": "#211b1e",
-      "type": "color",
-      "description": ""
     },
     "on-error-container": {
       "value": "#d93e3d",
@@ -118,6 +118,14 @@
       "type": "color",
       "description": ""
     },
+    "outline": {
+      "value": "#777476",
+      "type": "color"
+    },
+    "outline-variant": {
+      "value": "#dad9d9",
+      "type": "color"
+    },
     "shadow": {
       "value": "#000000",
       "type": "color",
@@ -141,18 +149,6 @@
     },
     "surface5": {
       "value": "#2b353e",
-      "type": "color"
-    },
-    "on-surface-variant-variant": {
-      "value": "#908d8e",
-      "type": "color"
-    },
-    "outline-variant": {
-      "value": "#dad9d9",
-      "type": "color"
-    },
-    "outline": {
-      "value": "#777476",
       "type": "color"
     },
     "warning": {
@@ -193,6 +189,14 @@
     },
     "on-success-container": {
       "value": "#072820",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "#3a3537",
+      "type": "color"
+    },
+    "on-disabled": {
+      "value": "#908d8e",
       "type": "color"
     }
   },

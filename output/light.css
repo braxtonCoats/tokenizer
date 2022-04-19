@@ -2,11 +2,11 @@
           --theme-primary: #076ea8;
   --theme-on-primary: #ffffff;
   --theme-primary-container: #f5fbfe;
+  --theme-primary-container-variant: #e6f5fd;
   --theme-on-primary-container: #076ea8;
   --theme-secondary: #084062;
   --theme-on-secondary: #ffffff;
   --theme-secondary-container: #51b9f3;
-  --theme-primary-container-variant: #e6f5fd;
   --theme-on-secondary-container: #082134;
   --theme-tertiary: #33cba3;
   --theme-on-tertiary: #000000;
@@ -24,13 +24,13 @@
   --theme-surface-variant: #e6f5fd;
   --theme-on-surface-variant: #464244;
   --theme-outline: #777476;
+  --theme-outline-variant: #908d8e;
   --theme-shadow: #000000;
   --theme-surface1: #eff4fa;
   --theme-surface2: #e8f0f7;
   --theme-surface3: #e0ebf4;
   --theme-surface4: #deeeff;
   --theme-surface5: #d9e7f1;
-  --theme-outline-variant: #908d8e;
   --theme-warning: #b19014;
   --theme-on-warning: #ffffff;
   --theme-warning-container: #fefcf1;
@@ -41,6 +41,8 @@
   --theme-success-container: #f4fcfa;
   --theme-on-success-container: #072820;
   --theme-success-container-variant: #e5f8f3;
+  --theme-disabled: #f2f2f2;
+  --theme-on-disabled: #6b6769;
   --text-field-default-focus: [object Object],[object Object],[object Object];
   --text-field-default-hover: [object Object],[object Object];
   --text-field-default-active: [object Object],[object Object];
