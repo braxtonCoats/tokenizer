@@ -1023,7 +1023,7 @@
       "small": {
         "value": {
           "fontFamily": "Overpass",
-          "fontWeight": "SemiBold",
+          "fontWeight": "Regular",
           "lineHeight": 32,
           "fontSize": 24,
           "letterSpacing": "0%",
@@ -1038,7 +1038,7 @@
       "large": {
         "value": {
           "fontFamily": "Overpass",
-          "fontWeight": "SemiBold",
+          "fontWeight": "Bold",
           "lineHeight": 32,
           "fontSize": 28,
           "letterSpacing": "0%",
@@ -1051,7 +1051,7 @@
       "medium": {
         "value": {
           "fontFamily": "Overpass",
-          "fontWeight": "Regular",
+          "fontWeight": "SemiBold",
           "lineHeight": 28,
           "fontSize": 24,
           "letterSpacing": "0%",
