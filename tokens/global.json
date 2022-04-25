@@ -997,9 +997,9 @@
       "large": {
         "value": {
           "fontFamily": "Overpass",
-          "fontWeight": "Regular",
-          "lineHeight": 40,
-          "fontSize": 32,
+          "fontWeight": "$fontWeight.thin",
+          "lineHeight": 44,
+          "fontSize": 36,
           "letterSpacing": "0%",
           "paragraphSpacing": 16,
           "textCase": "none",
@@ -1010,9 +1010,9 @@
       "medium": {
         "value": {
           "fontFamily": "Overpass",
-          "fontWeight": "Regular",
-          "lineHeight": 36,
-          "fontSize": 28,
+          "fontWeight": "Bold",
+          "lineHeight": 40,
+          "fontSize": 32,
           "letterSpacing": "0%",
           "paragraphSpacing": 16,
           "textCase": "none",
@@ -1023,7 +1023,7 @@
       "small": {
         "value": {
           "fontFamily": "Overpass",
-          "fontWeight": "Regular",
+          "fontWeight": "SemiBold",
           "lineHeight": 32,
           "fontSize": 24,
           "letterSpacing": "0%",
@@ -1039,8 +1039,8 @@
         "value": {
           "fontFamily": "Overpass",
           "fontWeight": "SemiBold",
-          "lineHeight": 20,
-          "fontSize": 14,
+          "lineHeight": 32,
+          "fontSize": 28,
           "letterSpacing": "0%",
           "paragraphSpacing": 16,
           "textCase": "none",
@@ -1051,9 +1051,9 @@
       "medium": {
         "value": {
           "fontFamily": "Overpass",
-          "fontWeight": "SemiBold",
-          "lineHeight": 24,
-          "fontSize": 16,
+          "fontWeight": "Regular",
+          "lineHeight": 28,
+          "fontSize": 24,
           "letterSpacing": "0%",
           "paragraphSpacing": 16,
           "textCase": "none",
