@@ -311,105 +311,105 @@
         "description": "Color contrast with...\n"
       }
     },
-    "gray": {
-      "gray0": {
+    "grey": {
+      "grey0": {
         "value": "#ffffff",
         "type": "color",
         "description": "Color contrast with...\n"
       },
-      "gray2": {
+      "grey2": {
         "value": "#f9f9f9",
         "type": "color",
         "description": ""
       },
-      "gray5": {
+      "grey5": {
         "value": "#f2f2f2",
         "type": "color",
         "description": ""
       },
-      "gray10": {
+      "grey10": {
         "value": "#e5e5e5",
         "type": "color",
         "description": "Color contrast with...\n"
       },
-      "gray15": {
+      "grey15": {
         "value": "#dad9d9",
         "type": "color"
       },
-      "gray20": {
+      "grey20": {
         "value": "#cdcccd",
         "type": "color",
         "description": "Color contrast with...\n"
       },
-      "gray25": {
+      "grey25": {
         "value": "#c1bfc0",
         "type": "color"
       },
-      "gray30": {
+      "grey30": {
         "value": "#b4b2b3",
         "type": "color",
         "description": "Color contrast with...\n"
       },
-      "gray35": {
+      "grey35": {
         "value": "#a9a7a8",
         "type": "color"
       },
-      "gray40": {
+      "grey40": {
         "value": "#9c9a9b",
         "type": "color",
         "description": "Color contrast with...\n"
       },
-      "gray45": {
+      "grey45": {
         "value": "#908d8e",
         "type": "color"
       },
-      "gray50": {
+      "grey50": {
         "value": "#848182",
         "type": "color",
         "description": "Color contrast with...\n"
       },
-      "gray55": {
+      "grey55": {
         "value": "#777476",
         "type": "color"
       },
-      "gray60": {
+      "grey60": {
         "value": "#6b6769",
         "type": "color",
         "description": "Color contrast with...\n"
       },
-      "gray65": {
+      "grey65": {
         "value": "#5e5a5c",
         "type": "color"
       },
-      "gray70": {
+      "grey70": {
         "value": "#524e50",
         "type": "color",
         "description": "Color contrast with...\n"
       },
-      "gray75": {
+      "grey75": {
         "value": "#464244",
         "type": "color"
       },
-      "gray80": {
+      "grey80": {
         "value": "#3a3537",
         "type": "color",
         "description": "Color contrast with...\n"
       },
-      "gray85": {
+      "grey85": {
         "value": "#2d282b",
         "type": "color"
       },
-      "gray90": {
+      "grey90": {
         "value": "#211b1e",
         "type": "color",
         "description": "Color contrast with...\n"
       },
-      "gray95": {
+      "grey95": {
         "value": "#150f12",
         "type": "color",
         "description": "Color contrast with...\n"
       },
-      "gray100": {
+      "grey100": {
         "value": "#090306",
         "type": "color",
         "description": "Color contrast with...\n"
@@ -418,6 +418,10 @@
     "maroon": {
       "maroon0": {
         "value": "#ffffff",
+        "type": "color"
+      },
+      "maroon2": {
+        "value": "#EFE9ED",
         "type": "color"
       },
       "maroon5": {
@@ -494,6 +498,10 @@
       },
       "maroon95": {
         "value": "#12060d",
+        "type": "color"
+      },
+      "maroon100": {
+        "value": "#090306",
         "type": "color"
       }
     },
@@ -682,6 +690,10 @@
       "orange95": {
         "value": "#210d0c",
         "type": "color"
+      },
+      "orange100": {
+        "value": "#090306",
+        "type": "color"
       }
     },
     "yellow": {
@@ -768,6 +780,10 @@
       "yellow95": {
         "value": "#211708",
         "type": "color"
+      },
+      "yellow100": {
+        "value": "#090306",
+        "type": "color"
       }
     },
     "pink": {
@@ -853,6 +869,10 @@
       },
       "pink95": {
         "value": "#1e0814",
+        "type": "color"
+      },
+      "pink100": {
+        "value": "#090306",
         "type": "color"
       }
     }
@@ -1007,7 +1027,8 @@
           "textCase": "none",
           "textDecoration": "none"
         },
-        "type": "typography"
+        "type": "typography",
+        "failedToResolve": true
       },
       "medium": {
         "value": {
@@ -1089,7 +1110,8 @@
           "textCase": "none",
           "textDecoration": "none"
         },
-        "type": "typography"
+        "type": "typography",
+        "failedToResolve": true
       },
       "medium": {
         "value": {
@@ -1156,7 +1178,8 @@
           "textCase": "none",
           "textDecoration": "none"
         },
-        "type": "typography"
+        "type": "typography",
+        "failedToResolve": true
       }
     },
     "mono": {
