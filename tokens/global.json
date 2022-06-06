@@ -1072,11 +1072,11 @@
     },
     "label": {
       "lg": {
-        "value": 12,
+        "value": 14,
         "type": "fontSizes"
       },
       "med": {
-        "value": 14,
+        "value": 12,
         "type": "fontSizes"
       },
       "sm": {
@@ -1360,12 +1360,12 @@
     }
   },
   "label": {
-    "lg": {
+    "large": {
       "value": {
         "fontFamily": "Overpass",
         "fontWeight": "Bold",
         "lineHeight": 18,
-        "fontSize": 12,
+        "fontSize": 14,
         "letterSpacing": "0%",
         "paragraphSpacing": 16,
         "textDecoration": "none",
@@ -1386,12 +1386,12 @@
         "type": "typography"
       }
     },
-    "med": {
+    "medium": {
       "value": {
         "fontFamily": "Overpass",
         "fontWeight": "Semi Bold",
         "lineHeight": 16,
-        "fontSize": 14,
+        "fontSize": 12,
         "letterSpacing": "0%",
         "paragraphSpacing": 16,
         "textDecoration": "none",
@@ -1399,7 +1399,7 @@
       },
       "type": "typography"
     },
-    "sm": {
+    "small": {
       "value": {
         "fontFamily": "Overpass",
         "fontWeight": "Semi Bold",

@@ -229,8 +229,8 @@
   --fs-title-lg: 28;
   --fs-title-med: 24;
   --fs-title-sm: 14;
-  --fs-label-lg: 12;
-  --fs-label-med: 14;
+  --fs-label-lg: 14;
+  --fs-label-med: 12;
   --fs-label-sm: 11;
   --fs-body-lg: 16;
   --fs-body-med: 14;
@@ -282,7 +282,7 @@
   --body-large: [object Object];
   --body-medium: [object Object];
   --body-small: [object Object];
-  --label-lg: [object Object];
-  --label-med: [object Object];
-  --label-sm: [object Object];
+  --label-large: [object Object];
+  --label-medium: [object Object];
+  --label-small: [object Object];
       }
